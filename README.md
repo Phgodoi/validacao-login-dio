@@ -1,2 +1,2 @@
 # validacao-login-dio
- Validação fomulario de login e nova conta
+ Criação de um formulario de login e criação de nova conta com validação de credenciais. 
